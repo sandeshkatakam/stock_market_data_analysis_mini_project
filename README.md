@@ -1,0 +1,2 @@
+# stock_market_data_analysis_mini_project
+This repo contains my Data Analysis project  on the stock quotes of AXIS BANK during the years 2019-2021. It is  a complete analysis on how the impact of pandemic affected the stock quotes of one of the prominent stocks listed on NIFTY50. My future Idea for this project is to automate the jupyter notebook to do quick analysis on all the other stock quotes.
